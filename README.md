@@ -1,5 +1,7 @@
 # Euclidean-Distances
 
+#### Project is in the process of being uploaded completly, thank you for your patience! Exciting!!    
+
 ### Project Utilizes:
 - Pandas
   - Series/Dataframes
