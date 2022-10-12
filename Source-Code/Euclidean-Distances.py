@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 Created on Thu Sep 29 10:27:04 2022
 @author: moeezkhan
@@ -12,6 +13,7 @@ import timeit
 
 
 ''' Use the default value of numRows (None) to read *all* rows '''
+
 # Read -- import data
 def readData(numRows = None):
     
@@ -95,6 +97,7 @@ def addRandomCols(df, numNewCols):
     newCols.map(lambda colName: addRandomCol(colName, df))
 
 
+    
 def addRandomCol(colName, df):
     df.loc[:, colName] = np.random.randint(-100, 100, df.shape[0])
 
