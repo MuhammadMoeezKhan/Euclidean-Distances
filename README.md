@@ -1,8 +1,6 @@
 # Euclidean Distances
 
-#### Project is in the process of being uploaded completly, thank you for your patience! Exciting!!    
-
-#### Euclidean distance measures are central to the k-Nearest Neighbor algorithm, thus this project utilizes  *5* algorithims to calculate Euclidean point value differences and each algorithim's detailed numerical complexity analysis!
+#### Euclidean distance measures are central to the k-Nearest Neighbor algorithm, thus this project utilizes *5* algorithims to calculate distance point value differences and each algorithim's detailed numerical complexity analysis!
 
 ### Project Utilizes:
 - Pandas
